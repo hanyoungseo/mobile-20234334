@@ -1,0 +1,29 @@
+{
+  "count": 3,
+  "questions": [
+    {
+      "title": "MBTI 5초 테스트",
+      "file": "mbti",
+      "category": "성격",
+      "image": "assets/images/mbti.png",
+      "tags": ["mbti", "성격유형"],
+      "difficulty": "easy"
+    },
+    {
+      "title": "당신은 어떤 사랑을 하고 싶나요?",
+      "file": "test2",
+      "category": "연애",
+      "image": "assets/images/love.png",
+      "tags": ["연애심리", "연애성향"],
+      "difficulty": "normal"
+    },
+    {
+      "title": "당신이 좋아하는 애완동물은?",
+      "file": "test1",
+      "category": "취향",
+      "image": "assets/images/pet.png",
+      "tags": ["동물", "취향테스트"],
+      "difficulty": "easy"
+    }
+  ]
+}

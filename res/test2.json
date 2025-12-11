@@ -1,0 +1,33 @@
+{
+  "title": "당신은 어떤 사랑을 하고 싶나요?",
+  "question": "목욕할 때 가장 먼저 비누칠을 하는 곳은?",
+  "image": "assets/images/bath.png",
+  "selects": [
+    { "text": "머리", "emoji": "🧠" },
+    { "text": "상체", "emoji": "💪" },
+    { "text": "하체", "emoji": "🦵" }
+  ],
+  "answers": [
+    {
+      "result": "자만추 타입",
+      "summary": "자연스러운 만남과 인연을 선호",
+      "detail": "당신은 우연한 순간 속에서 사랑이 시작되길 바라는 로맨티스트입니다.",
+      "share_text": "나는 자만추 타입이래! 운명적인 만남을 원함 ❤️",
+      "image": "assets/images/love_natural.png"
+    },
+    {
+      "result": "소개팅 선호 타입",
+      "summary": "새로운 사람과의 만남을 즐기는 타입",
+      "detail": "어색함보다 새로운 인연의 설렘을 더 크게 느끼는 성격입니다.",
+      "share_text": "나는 소개팅 선호 스타일! 새로운 인연 환영 😄",
+      "image": "assets/images/love_intro.png"
+    },
+    {
+      "result": "우연적 인연 타입",
+      "summary": "영화 같은 사랑을 꿈꾸는 감성적인 타입",
+      "detail": "길을 걷다가 우연히 마주치는 그런 인연을 꿈꾸는 타입입니다.",
+      "share_text": "나는 우연한 사랑 타입 💘 영화 같은 만남을 꿈꿔!",
+      "image": "assets/images/love_destiny.png"
+    }
+  ]
+}

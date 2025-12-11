@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "....",
+    "project_id": "personnalitytest-18cb4",
+    "storage_bucket": "personnalitytest-18cb4.appspot.com"
+  },
+},
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613692661372:android:d15873b857ec67bb07b3f9",
+        "android_client_info": {
+          "package_name": "com.example.personnalitytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qR0XaSn0iw_n3W9vFqcQE3fLS__g_V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

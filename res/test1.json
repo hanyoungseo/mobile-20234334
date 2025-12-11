@@ -1,0 +1,41 @@
+{
+  "title": "당신이 좋아하는 애완동물은?",
+  "question": "무인도 상자 안에서 당신이 가장 먼저 집어드는 것은?",
+  "image": "assets/images/island.png",
+  "selects": [
+    { "text": "생존키트", "emoji": "🧰" },
+    { "text": "휴대폰", "emoji": "📱" },
+    { "text": "텐트", "emoji": "⛺" },
+    { "text": "무인도 생존책", "emoji": "📘" }
+  ],
+  "answers": [
+    {
+      "result": "현실주의자",
+      "summary": "동물보다는 사람과 상황을 우선 파악하는 타입",
+      "detail": "직설적이고 목표 지향적인 성격입니다. 애완동물을 키우기보다 현실적인 선택을 중요하게 여깁니다.",
+      "share_text": "나는 현실주의 타입! 실용적인 선택을 하는 성격이라네요!",
+      "image": "assets/images/result_real.png"
+    },
+    {
+      "result": "강아지 스타일",
+      "summary": "사람과 교감을 중요하게 여기는 따뜻한 감성의 소유자",
+      "detail": "친구, 가족 등 관계를 중요하게 생각하는 성향입니다. 강아지처럼 애정 표현이 풍부한 타입!",
+      "share_text": "나는 강아지 스타일이래 🐶 따뜻한 감성 가득!",
+      "image": "assets/images/dog.png"
+    },
+    {
+      "result": "고양이 스타일",
+      "summary": "자기만의 공간과 취향을 중시하는 섬세한 성격",
+      "detail": "자유로운 성향이며, 감성적이고 자기만의 루틴을 즐깁니다.",
+      "share_text": "나는 고양이 스타일! 😺 은근 자유로운 성격이래",
+      "image": "assets/images/cat.png"
+    },
+    {
+      "result": "앵무새 스타일",
+      "summary": "낭만적이며 창의력이 풍부한 스타일",
+      "detail": "새로운 것에 호기심이 많고, 비일상적인 감정을 즐기는 타입입니다.",
+      "share_text": "나는 앵무새 스타일! 🦜 상상력이 풍부하대!",
+      "image": "assets/images/parrot.png"
+    }
+  ]
+}
